@@ -1,0 +1,7 @@
+{
+  "version": "2.5",
+  "changelog": "Perbaikan bug, tampilan UI baru",
+  "note": "",
+  "url": "https://link-download-apk-kamu.com/app.apk",
+  "force": false
+}
